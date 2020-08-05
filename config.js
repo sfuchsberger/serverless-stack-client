@@ -5,7 +5,7 @@ const dev = {
     BUCKET: "notes-app-2-api-dev-attachmentsbucket-bp5iw3jd0ks4"
   },
   apiGateway: {
-    REGION: "us-east-2,
+    REGION: "us-east-2",
     URL: "https://vof0q27xj2.execute-api.us-east-2.amazonaws.com/dev"
   },
   cognito: {
